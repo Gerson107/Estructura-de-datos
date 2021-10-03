@@ -35,9 +35,10 @@ This development is a website for a music festival prepared as a practice projec
 
 - Semantic HTML5 markup
 - CSS custom properties
--Sass
--SCSS
--Javascript
+- Gulp
+- Sass
+- SCSS
+- Javascript
 - Normalize.css
 - Flexbox
 - CSS Grid
